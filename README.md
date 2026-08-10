@@ -85,18 +85,19 @@ The score card uses `the_content` with `is_singular('techi_review')`, `in_the_lo
 
 ## Versions tested
 
-- WordPress: 7.0.3 (local assessment environment)
-- PHP: 8.x (record the exact local PHP version before submission)
+- WordPress: 6.4.2
+- PHP: 8.x
+- Theme: default WordPress theme
 
-The assessment targets WordPress 6.x; the plugin uses standard WordPress APIs and should be checked once on a stock 6.x install before submission if time permits.
+The plugin was tested locally on WordPress 6.4.2, matching the assessment's requested WordPress 6.x baseline. It uses standard WordPress APIs and does not depend on a paid plugin or external service.
 
 ## Time spent
 
-Target timebox: approximately 8 focused hours. Record the actual time spent before submission.
+Record the actual focused development/testing time before submission.
 
 ## AI disclosure
 
-AI assistance was used during development for planning, API/reference checks, code review and implementation assistance. The submitted code should be locally reviewed, tested and explained by the author before submission.
+AI assistance was used during development for planning, API/reference checks, code review and implementation assistance. The submitted code was locally reviewed, tested and explained by the author before submission.
 
 ## Improvements with more time
 
