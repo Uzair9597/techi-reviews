@@ -41,4 +41,4 @@ function techi_reviews_activate() {
 }
 register_activation_hook( __FILE__, 'techi_reviews_activate' );
 
-// Rewrite rules are intentionally flushed on activation only.
+
