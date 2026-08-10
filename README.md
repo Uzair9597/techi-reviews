@@ -105,3 +105,6 @@ AI assistance was used during development for planning, API/reference checks, co
 - Add the review grid shortcode with progressive enhancement.
 - Add automated PHPUnit/WordPress integration tests.
 - Add richer admin validation messages and a small frontend stylesheet.
+
+DEMO VEDIO URL:
+https://www.loom.com/share/4686ed0c399847b9955e86fc45d95e6c   
