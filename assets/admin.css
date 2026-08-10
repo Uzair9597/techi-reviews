@@ -1,0 +1,9 @@
+.techi-review-fields label { display:block; margin-bottom:6px; }
+.techi-review-fields input[type="number"],
+.techi-review-fields input[type="date"] { min-width:220px; }
+.techi-two-col { display:grid; grid-template-columns:1fr 1fr; gap:20px; }
+.techi-repeatable { margin-top:20px; padding-top:15px; border-top:1px solid #ddd; }
+.techi-repeatable-heading { display:flex; justify-content:space-between; align-items:center; margin-bottom:10px; }
+.techi-repeatable-row { display:flex; gap:10px; align-items:center; margin-bottom:8px; }
+.techi-repeatable-row .widefat { flex:1; }
+@media (max-width:700px) { .techi-two-col { grid-template-columns:1fr; } }
